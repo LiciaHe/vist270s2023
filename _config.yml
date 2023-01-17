@@ -31,7 +31,8 @@ permalink: date
 theme: minima
 plugins:
   - jekyll-feed
-future: false
+future: true
+show_drafts: false
 
 # Exclude from processing.
 # The following items will not be processed, by default.

@@ -35,7 +35,7 @@ Acronym/abbreviation/info:
 | 5 |2/13:  Q4|  2/14: HW3 Due|  2/15: |  2/16:  HW3 Review Due  |  2/17:  |
 | 6 |2/20:  Q5|  2/21: HW4 Due|  2/22: |  2/23:   HW4 Review Due |  2/24:  |
 | 7 |2/27: Q6|  2/28: |  3/1: |  3/2:   HW4 Review Due |  3/3:  |
-| 8 |3/6:  Q7|  2/28:  HW5 Due|  3/1: |  3/2:HW5 Review Due   |  3/3:  |
+| 8 |3/6:  Q7|  3/7:  HW5 Due|  3/8: |  3/9:HW5 Review Due   |  3/10:  |
 | 9 |3/13:  Spring break | 3/14: Spring break  |  3/15: Spring break |  3/16:Spring break   |  3/17:  Spring break |
 | 10 |3/20: | 3/21:  |  3/22: |  3/23:   |  3/24:  |
 | 11 |3/27:  Q8| 3/28: HW6 Due|  3/29: |  3/30: HW6 Review Due |  3/31:  |
