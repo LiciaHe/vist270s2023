@@ -31,7 +31,7 @@ Acronym/abbreviation/info:
 | 1 |1/16:   MLK Day |  1/17:   |  1/18: |  1/19:  | 1/20: |
 | 2 |1/23:  Q1|  1/24: |  1/25: |  1/26:  |  1/27:  |
 | 3 |1/30: Q2 |  1/31: HW1 Due|  2/1: |  2/2: HW1 Review Due |  2/3:  |
-| 4 |2/6:  Q3|  2/7: HW2 Due|  2/8: |  2/9:  HW2 Review Due|  2/10:  |
+| 4 |2/6:  Q3|  2/7: HW2 Due|  2/8: Due to PVFA creative works day, Wed. lab is office hours open to all sessions |  2/9:  HW2 Review Due |  2/10: PVFA Creative Works Day, No Lab  |
 | 5 |2/13:  Q4|  2/14: HW3 Due|  2/15: |  2/16:  HW3 Review Due  |  2/17:  |
 | 6 |2/20:  Q5|  2/21: HW4 Due|  2/22: |  2/23:   HW4 Review Due |  2/24:  |
 | 7 |2/27: Q6|  2/28: |  3/1: |  3/2:   HW4 Review Due |  3/3:  |
@@ -59,7 +59,7 @@ Topic & Schedule are subject to change.
 |2| 1/23: |list intro, debugging| coordination system, basic graphics elements (line, polygon, circles, common 3D geometry)| coordination system & PIL| HW1|
 |3| 1/30:| Function, Conditional Execution| Function, Conditional Execution | Tile math in 2D (without loops)|HW2|
 |4| 2/6: | Loop | Loop, List| Tile design in 3D (with loops)|HW3|
-|5| 2/13:| Review | Raster vs. Vector, Color |3D Cube coloring| HW4|
+|5| 2/13:| Review | Raster vs. Vector, Color | PVFA Creative Day| HW4|
 |6| 2/20: | Trigonometry for graphics | Trigonometry for graphics | 3D geometry manipulation |HW5|
 |7| 2/27:|  Transformation I: scaling, translating | Transformation II: rotation|3D geometry manipulation|HW5|
 |8| 3/6:| Review | Review|Creating a sequence|HW6|
@@ -76,6 +76,7 @@ Topic & Schedule are subject to change.
 ## Advanced Topics
 Topics that we might be able to briefly cover: 
 1. Recursive
-4. Parametric design 
+2. Parametric design 
+
 
 
