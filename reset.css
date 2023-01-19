@@ -31,3 +31,6 @@ footer, header, hgroup, main, menu, nav, section {
 code {
   white-space : pre-wrap !important;
 }
+.highlight {
+  white-space : pre-wrap !important;
+}
