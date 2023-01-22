@@ -28,6 +28,15 @@ This course emphasizes hands-on experience to introduce the fundamentals of visu
 | 502 Lab| F: 4:00-5:40 |ARCC 307|
 | 503 Lab| F: 1:50-3:30 |LAHH 124|
 
+### Office Hour:
+
+| Instructor | Time            | Location |  
+|------------|-----------------|--| 
+| Madhu      | M: 12:00-1:00   | LAAH 124 |  
+| Madhu      | TU: 10:00-11:00 | LAAH 228 |  
+| Aayushi    | TU: 12:00-1:00    | LAAH 228 |
+| Varda      | TU: 3:00-4:00    | LAAH 228 |
+
 
 
 ### Teaching Team 
