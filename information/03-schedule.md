@@ -56,9 +56,9 @@ Topic & Schedule are subject to change.
 | #|Monday| Lecture1 | Lecture 2 | Lab  | HW|
 | ----------- | ----------- |   ----------- |  ----------- | ----------- | 
 |1| 1/16: |Course introduction|variable, number, string, function|Software Installation, commandline/terminal| 
-|2| 1/23: |list intro, debugging| coordination system, basic graphics elements (line, polygon, circles, common 3D geometry)| coordination system & PIL| HW1|
+|2| 1/23: |string and list |list, debugging, function| coordination system & PIL| HW1|
 |3| 1/30:| Function, Conditional Execution| Function, Conditional Execution | Tile math in 2D (without loops)|HW2|
-|4| 2/6: | Loop | Loop, List| Tile design in 3D (with loops)|HW3|
+|4| 2/6: | coordination system, basic graphics elements | Loop, List| Tile design in 3D (with loops)|HW3|
 |5| 2/13:| Review | Raster vs. Vector, Color | PVFA Creative Day| HW4|
 |6| 2/20: | Trigonometry for graphics | Trigonometry for graphics | 3D geometry manipulation |HW5|
 |7| 2/27:|  Transformation I: scaling, translating | Transformation II: rotation|3D geometry manipulation|HW5|
