@@ -57,12 +57,12 @@ Topic & Schedule are subject to change.
 | ----------- | ----------- |   ----------- |  ----------- | ----------- | 
 |1| 1/16: |Course introduction|variable, number, string, function|Software Installation, commandline/terminal| 
 |2| 1/23: |string and list |list, debugging, function| coordination system & PIL| HW1|
-|3| 1/30:| Function, Conditional Execution| Function, Conditional Execution | Tile math in 2D (without loops)|HW2|
-|4| 2/6: | coordination system, basic graphics elements | Loop, List| Tile design in 3D (with loops)|HW3|
-|5| 2/13:| Review | Raster vs. Vector, Color | PVFA Creative Day| HW4|
-|6| 2/20: | Trigonometry for graphics | Trigonometry for graphics | 3D geometry manipulation |HW5|
-|7| 2/27:|  Transformation I: scaling, translating | Transformation II: rotation|3D geometry manipulation|HW5|
-|8| 3/6:| Review | Review|Creating a sequence|HW6|
+|3| 1/30:| Function | Function, Conditional Execution | Tile math in 2D (without loops)|HW2|
+|4| 2/6: | Loop, List | Raster vs. Vector, Color| PVFA Creative Day|HW3|
+|5| 2/13:| Conditional Execution | Review| 3D geometry creation| HW4|
+|6| 2/20: | List, Dictionary  | Trigonometry for graphics| 3D geometry manipulation |HW5|
+|7| 2/27:|  Trigonometry for graphics | Transformation I: scaling, translating|HW5|
+|8| 3/6:| Transformation II: rotation|3D geometry manipulation | Review|Creating a sequence|HW6|
 |9| 3/13:| No Lecture|No Lecture|No Lab| |
 |10| 3/20:| Object Oriented Programming | Object Oriented Programming| Creating a sequence|HW6|
 |11| 3/27:| Constructing curves | Useful operations| Construct a brush | HW7|
