@@ -57,7 +57,7 @@ Topic & Schedule are subject to change.
 | ----------- | ----------- |   ----------- |  ----------- | ----------- | 
 |1| 1/16: |Course introduction|variable, number, string, function|Software Installation, commandline/terminal| 
 |2| 1/23: |string and list |list, debugging, function| coordination system & PIL| HW1|
-|3| 1/30:| Function | Function, Conditional Execution | Tile math in 2D (without loops)|HW2|
+|3| 1/30:| Function | Loop | Tile math in 2D (without loops)|HW2|
 |4| 2/6: | Loop, List | Raster vs. Vector, Color| PVFA Creative Day|HW3|
 |5| 2/13:| Conditional Execution | Review| 3D geometry creation| HW4|
 |6| 2/20: | List, Dictionary  | Trigonometry for graphics| 3D geometry manipulation |HW5|
