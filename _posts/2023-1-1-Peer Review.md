@@ -40,3 +40,4 @@ I recommend this submission for an additional bonus of x%[x should be less than 
 
 The teaching team will determine whether to award the bonus. 
 
+If the submission you are reviewing is empty (no submission, incomplete for example), please still leave a comment so we can give you points for your review. 
