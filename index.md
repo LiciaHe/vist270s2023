@@ -20,13 +20,13 @@ This course emphasizes hands-on experience to introduce the fundamentals of visu
 ### Hours:
 
 | Type/Section | Time | Location |  
-| ----------- | ----------- |   ----------- | 
-| Lecture | TU: 5:30-6:45 | HECC 108|  
-| Lecture | TH: 5:30-6:45 | HECC 108|  
-| 500 Lab| W: 4:30-6:10 |ARCC 307|
-| 501 Lab| F: 11:30-1:10 |LAAH 242|
-| 502 Lab| F: 4:00-5:40 |ARCC 307|
-| 503 Lab| F: 1:50-3:30 |LAHH 124|
+| ----------- | ----------- |----------| 
+| Lecture | TU: 5:30-6:45 | HECC 108 |  
+| Lecture | TH: 5:30-6:45 | HECC 108 |  
+| 500 Lab| W: 4:30-6:10 | ARCC 307 |
+| 501 Lab| F: 11:30-1:10 | LAAH 242 |
+| 502 Lab| F: 4:00-5:40 | ARCC 307 |
+| 503 Lab| F: 1:50-3:30 | FRAN 112 |
 
 ### Office Hour:
 
