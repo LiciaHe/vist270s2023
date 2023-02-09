@@ -7,8 +7,8 @@
     2. Pixel graphics (if else then)
 
 02-18:
-    1. Tetris 
-    2. Snowflake generator 
+    1. Tetris [MAYA]
+    2. Snowflake generator [Turtle]
 2-25
     1. PILLOW 
     2. Design refactor (switching to pillow)
